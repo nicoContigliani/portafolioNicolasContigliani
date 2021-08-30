@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+.fotos{
+  border-style: solid;
+
+  border-radius: 15%;
+  border-bottom: 6px solid rgb(0, 0, 0);
+  background-color: rgb(211, 211, 211);
+}
+
+
+.container{
+  background-color: rgba(124, 176, 255, 0.207);
+  border-radius: 4%;
+  border-style: groove;
+  border-width: 10px;
+  border-color: #d5d5d511;
+
+}
+
+.centrado{
+  margin:10px auto;
+  display:block;
+}
+.fotos{
+  opacity: 50%;
+}
+
+iframe{
+  position:initial;
+  width:100%;
+  top:0px;
+  left:0px;
+  }
+  
+  header{
+
+  }
+  .co{
+    background-color: rgba(20, 33, 53, 0.631);
+    border-radius: 4%;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #d5d5d511;
+  
+  }
